@@ -6,7 +6,7 @@ from Inicio import PAGE_CONFIG
 # -------------------------- CONFIG --------------------------
 # Config Page
 st.set_page_config(**PAGE_CONFIG)
-st.title('Manejo de Variables Especiales')
+st.title('10. Manejo de Variables Especiales')
 st.sidebar.success('Seleccionar página. ☝️')
 
 # -------------------------- CONTENIDO -------------------------- #

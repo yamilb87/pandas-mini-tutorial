@@ -6,7 +6,7 @@ from Inicio import PAGE_CONFIG
 # -------------------------- CONFIG --------------------------
 # Config Page
 st.set_page_config(**PAGE_CONFIG)
-st.title('Agrupar (uso de "groupby")')
+st.title('7. Agrupar (uso de "groupby")')
 st.sidebar.success('Seleccionar página. ☝️')
 
 # -------------------------- CONTENIDO -------------------------- #

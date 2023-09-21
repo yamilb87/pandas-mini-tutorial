@@ -6,7 +6,7 @@ from Inicio import PAGE_CONFIG
 # -------------------------- CONFIG --------------------------
 # Config Page
 st.set_page_config(**PAGE_CONFIG)
-st.title('Combinar Datos (usos de "concat" y "merge")')
+st.title('9. Combinar Datos (usos de "concat" y "merge")')
 st.sidebar.success('Seleccionar página. ☝️')
 
 # -------------------------- CONTENIDO -------------------------- #

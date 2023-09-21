@@ -6,7 +6,7 @@ from Inicio import PAGE_CONFIG
 # -------------------------- CONFIG --------------------------
 # Config Page
 st.set_page_config(**PAGE_CONFIG)
-st.title('Consultas (uso de "query")')
+st.title('6. Consultas (uso de "query")')
 st.sidebar.success('Seleccionar página. ☝️')
 
 # -------------------------- CONTENIDO -------------------------- #

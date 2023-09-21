@@ -6,7 +6,7 @@ from Inicio import PAGE_CONFIG
 # -------------------------- CONFIG --------------------------
 # Config Page
 st.set_page_config(**PAGE_CONFIG)
-st.title('Seleccionar por Tipo de Datos')
+st.title('4. Seleccionar por Tipo de Datos')
 st.sidebar.success('Seleccionar página. ☝️')
 
 # -------------------------- CONTENIDO -------------------------- #
